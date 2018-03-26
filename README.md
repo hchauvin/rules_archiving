@@ -1,4 +1,8 @@
-# A Bazel rule for building tarballs, with more flexibility than [`pkg_tar`](https://docs.bazel.build/versions/master/be/pkg.html#pkg_tar)
+# `rules_archiving`
+
+[![Build status](https://badge.buildkite.com/07667f996fda32883ec1e89be26c0ca5198ee0802c727d6828.svg)](https://buildkite.com/hchauvin/rules-archiving)
+
+`rules_archiving` is a Bazel rule for building tarballs, with more flexibility than [`pkg_tar`](https://docs.bazel.build/versions/master/be/pkg.html#pkg_tar)
 
 ## Example
 
